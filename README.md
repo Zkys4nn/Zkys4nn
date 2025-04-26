@@ -1,4 +1,4 @@
-- 👋 Hi, I’m zakiy, I am learning to be quiet
+Im Just a Fish
 
 <!---
 Zkys4nn/Zkys4nn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
